@@ -11,12 +11,7 @@
 
 <h3>AI-Powered Multi-Agent System for Drug Discovery Virtual Screening</h3>
 
-[Demo](https://huggingface.co/spaces/yourusername/virtual-screening) • 
-[Documentation](#-documentation) • 
-[Installation](#-installation) • 
-[Features](#-features) • 
-[Contributing](#-contributing)
-
+ 
 <img src="https://via.placeholder.com/800x400.png?text=Virtual+Screening+System+Demo" alt="Virtual Screening System Demo" width="800">
 
 </div>
@@ -106,8 +101,8 @@ graph TB
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/virtual-screening-system.git
-cd virtual-screening-system
+https://github.com/Saimoguloju/Centella-AI-Therapeutics.git
+cd Centella-AI-Therapeutics
 
 # Create virtual environment
 python -m venv venv
@@ -399,10 +394,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 [Report Issues](https://github.com/yourusername/virtual-screening-system/issues)
-- 💬 [Discussions](https://github.com/yourusername/virtual-screening-system/discussions)
-- 📧 Contact: your.email@example.com
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
+ 
+- 📧 Contact: saimoguloju2@gmail.com
+- 🐦 Twitter: [@yourusername](https://twitter.com/MogulojuSai2)
 
 ## 🌟 Star History
 
@@ -436,6 +430,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made with ❤️ for advancing AI in Drug Discovery
 
-[Back to Top](#-virtual-screening-system)
+ 
 
 </div>
