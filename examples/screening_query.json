@@ -1,0 +1,6 @@
+{
+    "target": "EGFR",
+    "library_size": 20,
+    "top_n": 5,
+    "skip_summary": false
+}

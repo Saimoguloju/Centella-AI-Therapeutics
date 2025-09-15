@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-google-genai
+google-generativeai
+pandas
+rdkit
+plotly
+python-dotenv
+pydantic
+typing-extensions
